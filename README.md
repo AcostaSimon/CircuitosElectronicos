@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/rFV3Mpv/0-AFB8-F4-A9.png" alt="0-AFB8-F4-A9" border="0"></a>
 
-Circuitos electrónicos:
+**Circuitos electrónicos:**
 
 **- Sensor de proximidad:** Barrera infrarrojo.
 
