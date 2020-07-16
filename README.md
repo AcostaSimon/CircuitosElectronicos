@@ -1,4 +1,4 @@
-# CircuitosElectronicos
+# Circuitos Electronicos
 
 <a href="https://www.linkedin.com/in/acostasimon"><img src="https://i.ibb.co/mbJLctq/kisspng-electronic-circuit-digital-electronics-circuit-dia-circuit-design-5b213929e12cc4-10601598152.png" alt="kisspng-electronic-circuit-digital-electronics-circuit-dia-circuit-design-5b213929e12cc4-10601598152" border="0"></a><br /><a target='_blank' href='https://www.linkedin.com/in/acostasimon'></a><br />
 
